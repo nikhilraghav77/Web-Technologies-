@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <!-- SIH winners team name to understand the ordered list and unordered list -->
+  <ol>
+    <li>Team Enigmaa (IIIT Allahabad)</li>
+    <li>Team Hyper Grey (Maharaja Surajmal Institute of Technology)</li>
+    <li>Team Sevadoot (DMCE Airoli)</li>
+    <li>Team MergeConflicts</li>
+    <li>Team Matrix (GTBIT)</li>
+  </ol>
+  <ul>
+    <li>eam Tech Trunkers (Saveetha Engineering College)</li>
+    <li>Team Circuit Sentinel (Chennai Institute of Technology)</li>
+    <li>Team MECH-MINDS (Panimalar Engineering College)</li>
+    <li>Team PsyConnect (Karmaveer Bhaurao Patil College of Engineering)</li>
+    <li>Team Shers (Manjara Charitable Trust Rajiv Gandhi Institute of Technology))</li>
+  </ul>
+</body>
+</html>
