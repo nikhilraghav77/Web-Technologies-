@@ -8,6 +8,7 @@
 </head>
 <body>
   <!-- SIH winners team name to understand the ordered list and unordered list -->
+ <h3>Software Domain</h3>
   <ol>
     <li>Team Enigmaa (IIIT Allahabad)</li>
     <li>Team Hyper Grey (Maharaja Surajmal Institute of Technology)</li>
@@ -15,6 +16,7 @@
     <li>Team MergeConflicts</li>
     <li>Team Matrix (GTBIT)</li>
   </ol>
+ <h3>Hardware Domain</h3>
   <ul>
     <li>eam Tech Trunkers (Saveetha Engineering College)</li>
     <li>Team Circuit Sentinel (Chennai Institute of Technology)</li>
