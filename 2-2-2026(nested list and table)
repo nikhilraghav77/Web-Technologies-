@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h2>University Course Catalog</h2>
+  
+  <table   border ="1" align = "centre" cellspacing = "0" cellpadding = "10" height= "50px" widht ="100px">
+    <caption><b>Departments and Courses </b></caption>
+    
+    <tr>
+      <th>Department</th>
+      <th>Courses</th>
+    </tr>
+    
+    <tr>
+      <td>Coumputer Science </td>
+      <td> <ul> <li>Web Development <ul>
+        <li>Frontend(HTML,CSS,JavaScript)</li>
+          <li>ackend(Node.js, Express)</li>
+        </ul></li></ul>
+        <ul><li>Data Science
+          <ul> <li>Python Programming</li>
+            <li>Machine Learning</li></li></ul></td>
+      </tr>
+    
+    <tr>
+      <td>Business Administration</td>
+      <td> <ul> <li>Markiting <ul>
+        <li>Digital Markiting </li>
+          <li>Brand Management</li>
+        </ul></li></ul>
+        <ul><li>Finance
+          <ul> <li>Structural Engineering</li>
+            <li>Investment Banking</li></li></ul></td>
+      
+    <tr>
+      <td>Engineering</td>
+      <td>
+        <table border = "1" cellspacing ="0" cellpadding="10">
+          <tr>
+            <th>Branch</th>
+            <th>Subject</th>
+          </tr>
+          
+          <tr>
+            <td>Mechanical</td>
+            <td>
+            <ul>
+              <li>Thermodynamics</li>
+              <li>Fluid Mechanics</li>
+               
+            </ul>
+            </td>
+          </tr>
+           <tr>
+            <td>Civil</td>
+            <td>
+            <ul>
+              <li>Structural Engineering</li>
+              <li>Environmental Engineering</li>
+               
+            </ul>
+            </td>
+          </tr>
+        </table>
+      </td>
+      
+    </tr>
+        
+      
+    
+    
+  
+  </table>
+</body>
+</html>
