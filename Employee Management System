@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <table border = "1" cellspacing ="0" cellpadding="30" height="200px" width="600px">
+    <h1> <b>Employee Management Hierarchy</b></h1>
+    <tr>
+      <th>Management Level</th>
+      <th>Positions </th>
+    </tr>
+    <tr>
+      <td >1. Top-Level Management </td>
+      <td>
+        <ul></li>
+        <li>Board of Directors</li>
+        <li>CEO / Managing Director</li>
+        </ul>
+      </td>
+    </tr>
+  <tr>
+    <td>2. Senior Management</td>
+    <td>
+      <ul>
+        <li>Chief Technology Officer (CTO)</li>
+        <li>Chief Financial Officer (CFO)</li>
+        <li>Chief Human Resource Officer (CHRO)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>3. Middle Management</td>
+    <td>
+      <ul>
+        <li>Department Managers</li>
+        <ul>
+          <li>HR Manager</li>
+           <li>IT Manager</li>
+           <li>Marketing Manager</li>
+        </ul>
+      </ul>
+      
+    </td>
+    </tr>
+  <tr>
+    <td>4. First-Line Management</td>
+    <td>
+      <ul>
+        <li>Team Leaders</li>
+        <li>Supervisors</li>
+      </ul>
+    </td>
+  </tr>
+   <tr>
+    <td>5. Employees</td>
+    <td>
+      <ul>
+        <li>Developers</li>
+        <li>Accountants</li>
+        <li>Sales Executives</li>
+      </ul>
+    </td>
+  </tr>
+  </table>
+</body>
+</html>
