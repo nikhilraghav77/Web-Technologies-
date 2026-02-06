@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>IILM University Campuses</h1>
+  <table border ="0" cellspacing ="20" cellpadding ="0"> 
+ <tr> 
+   <td><b> Sr.no </b></td>
+    <td><b> Logo</b></td>
+    <td><b> Name</b></td>
+    <td><b> Location</b></td>
+   
+   </tr>
+  
+  <tr>
+    <td>1.</td>
+    <td>  <a href ="https://iilm.ac.in/" > <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWDSvBZ5rn9tEuGIxGBup1HzRrQnafjMe3w&s" height="60px" width="60" alt "IILM Greater Noida Logo"> </a> </td>
+    <td>IILM University Greater Noida</td>
+      <td>Greater Noida Knowledge park -2</td>
+     </tr>
+  <tr>
+    <td>2.</td>
+    <td>  <a href ="https://iilm.edu.in/" > <img src ="https://gatewaytoeducation.com/public/upload/products/IILM-University%2C-Gurugram-%28Management%29-86.png" height="60px" width="100" alt "IILM Gurugram Logo"> </a> </td>
+    <td>IILM University Gurugram</td>
+      <td>Sector 53, Gurugram</td>
+    
+    </tr>
+    
+    <tr>
+      
+    <td>3.</td>
+    <td>  <a href ="https://iilmlr.ac.in/" > <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmc4sNoFMhwJTw4r6gGpUSSFKWpW_PHsaKWQ&s" height="60px" width="100" alt = "IILM Lodhi Road Logo"> </a> </td>
+    <td>IILM Lodhi Road</td>
+      <td>Lodhi Road, New Delhi</td>
+    
+    </tr>
+   
+      <tr>
+      
+    <td>4.</td>
+    <td>  <a href ="https://iilmjaipur.ac.in/" > <img src = "https://images.shiksha.com/mediadata/images/1608541334phpChRRUB.jpg" height="60px" width="100" alt = "IILM Jaipur Logo"> </a> </td>
+    <td>IILM Academy of Higher Learning</td>
+      <td>Jaipur</td>
+    
+    </tr>
+    
+     <tr>
+      
+    <td>5.</td>
+    <td>  <a href ="https://www.iilmlko.ac.in/" > <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkPqAoQcEqU24hvNeRjqXuHG9XqlY1OYcVw&s" height="60px" width="100" alt = "IILM Jaipur Logo"> </a> </td>
+    <td>IILM Academy of Higher Learning</td>
+      <td>Lucknow</td>
+    
+    </tr>
+   
+    
+  </table>
+  
+</body>
+</html>
